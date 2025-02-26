@@ -1,3 +1,5 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+# pizza-ex06
 
-add short (1-2 sentences) description of assignment here
+add more structure to pizza project using java packages
+
+
